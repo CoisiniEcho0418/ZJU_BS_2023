@@ -1,0 +1,9 @@
+/* 表格统一样式 */
+.el-table .el-table__header-wrapper thead th,
+.el-table .el-table__fixed-header-wrapper thead th {
+  padding: 0;
+  background-color: #f9f9f9;
+  height: 50px;
+  line-height: 40px;
+  color: #283543;
+}

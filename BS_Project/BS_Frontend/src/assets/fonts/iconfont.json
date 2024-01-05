@@ -1,0 +1,37 @@
+{
+  "id": "4378123",
+  "name": "BS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8549779",
+      "name": "Devices",
+      "font_class": "Devices",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "9255041",
+      "name": "iot 物联网平台",
+      "font_class": "iot",
+      "unicode": "e916",
+      "unicode_decimal": 59670
+    },
+    {
+      "icon_id": "21169246",
+      "name": "device-connected",
+      "font_class": "device-connected",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "35329146",
+      "name": "iot 物联网平台-copy",
+      "font_class": "iot1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
